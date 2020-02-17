@@ -1,0 +1,94 @@
+C:\Users\Zhenia\source\repos\VER-CHK\VER-CHK\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Zhenia\source\repos\VER-CHK\VER-CHK\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Zhenia\source\repos\VER-CHK\VER-CHK\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Zhenia\source\repos\VER-CHK\VER-CHK\bin\Debug\netcoreapp3.1\VER-CHK.exe
+C:\Users\Zhenia\source\repos\VER-CHK\VER-CHK\obj\Debug\netcoreapp3.1\staticwebassets\VER-CHK.StaticWebAssets.Manifest.cache
+C:\Users\Zhenia\source\repos\VER-CHK\VER-CHK\obj\Debug\netcoreapp3.1\staticwebassets\VER-CHK.StaticWebAssets.xml
+C:\Users\Zhenia\source\repos\VER-CHK\VER-CHK\obj\Debug\netcoreapp3.1\VER-CHK.AssemblyInfoInputs.cache
+C:\Users\Zhenia\source\repos\VER-CHK\VER-CHK\obj\Debug\netcoreapp3.1\VER-CHK.AssemblyInfo.cs
+C:\Users\Zhenia\source\repos\VER-CHK\VER-CHK\obj\Debug\netcoreapp3.1\VER-CHK.RazorTargetAssemblyInfo.cache
+C:\Users\Zhenia\source\repos\VER-CHK\VER-CHK\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\Zhenia\source\repos\VER-CHK\VER-CHK\obj\Debug\netcoreapp3.1\VER-CHK.csproj.CopyComplete
+C:\Users\Zhenia\source\repos\VER-CHK\VER-CHK\bin\Debug\netcoreapp3.1\DnsClient.dll
+C:\Users\Zhenia\source\repos\VER-CHK\VER-CHK\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+C:\Users\Zhenia\source\repos\VER-CHK\VER-CHK\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+C:\Users\Zhenia\source\repos\VER-CHK\VER-CHK\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+C:\Users\Zhenia\source\repos\VER-CHK\VER-CHK\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+C:\Users\Zhenia\source\repos\VER-CHK\VER-CHK\bin\Debug\netcoreapp3.1\SharpCompress.dll
+C:\Users\Zhenia\source\repos\VER-CHK\VER-CHK\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Zhenia\source\repos\VER-CHK\VER-CHK\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Zhenia\source\repos\VER-CHK\VER-CHK\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Zhenia\source\repos\VER-CHK\VER-CHK\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Zhenia\source\repos\VER-CHK\VER-CHK\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Zhenia\source\repos\VER-CHK\VER-CHK\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Zhenia\source\repos\VER-CHK\VER-CHK\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Zhenia\source\repos\VER-CHK\VER-CHK\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Zhenia\source\repos\VER-CHK\VER-CHK\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Zhenia\source\repos\VER-CHK\VER-CHK\bin\Debug\netcoreapp3.1\VER-CHK.deps.json
+C:\Users\Zhenia\source\repos\VER-CHK\VER-CHK\bin\Debug\netcoreapp3.1\VER-CHK.runtimeconfig.json
+C:\Users\Zhenia\source\repos\VER-CHK\VER-CHK\bin\Debug\netcoreapp3.1\VER-CHK.runtimeconfig.dev.json
+C:\Users\Zhenia\source\repos\VER-CHK\VER-CHK\bin\Debug\netcoreapp3.1\VER-CHK.dll
+C:\Users\Zhenia\source\repos\VER-CHK\VER-CHK\bin\Debug\netcoreapp3.1\VER-CHK.pdb
+C:\Users\Zhenia\source\repos\VER-CHK\VER-CHK\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Zhenia\source\repos\VER-CHK\VER-CHK\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Zhenia\source\repos\VER-CHK\VER-CHK\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Zhenia\source\repos\VER-CHK\VER-CHK\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Zhenia\source\repos\VER-CHK\VER-CHK\obj\Debug\netcoreapp3.1\VER-CHK.dll
+C:\Users\Zhenia\source\repos\VER-CHK\VER-CHK\obj\Debug\netcoreapp3.1\VER-CHK.pdb
+C:\Users\Zhenia\source\repos\VER-CHK\VER-CHK\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\Zhenia\source\repos\VER-CHK\VER-CHK\bin\Debug\netcoreapp3.1\Moq.dll
+C:\Users\Zhenia\source\repos\VER-CHK\VER-CHK\bin\Debug\netcoreapp3.1\AutoMoq.dll
+C:\Users\Zhenia\source\repos\VER-CHK\VER-CHK\bin\Debug\netcoreapp3.1\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Zhenia\source\repos\VER-CHK\VER-CHK\bin\Debug\netcoreapp3.1\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Zhenia\source\repos\VER-CHK\VER-CHK\bin\Debug\netcoreapp3.1\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\Zhenia\source\repos\VER-CHK\VER-CHK\bin\Debug\netcoreapp3.1\Microsoft.Practices.Unity.dll
+C:\Users\Zhenia\source\repos\VER-CHK\VER-CHK\obj\Debug\netcoreapp3.1\VER-CHK.csprojAssemblyReference.cache
+C:\Users\Zhenia\source\repos\VER-CHK\VER-CHK\obj\Debug\netcoreapp3.1\VER-CHK.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Zhenia\source\repos\VER-CHK\VER-CHK\obj\Debug\netcoreapp3.1\VER-CHK.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Zhenia\source\repos\VER-CHK — копия\VER-CHK\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Zhenia\source\repos\VER-CHK — копия\VER-CHK\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Zhenia\source\repos\VER-CHK — копия\VER-CHK\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Zhenia\source\repos\VER-CHK — копия\VER-CHK\bin\Debug\netcoreapp3.1\VER-CHK.exe
+C:\Users\Zhenia\source\repos\VER-CHK — копия\VER-CHK\bin\Debug\netcoreapp3.1\VER-CHK.deps.json
+C:\Users\Zhenia\source\repos\VER-CHK — копия\VER-CHK\bin\Debug\netcoreapp3.1\VER-CHK.runtimeconfig.json
+C:\Users\Zhenia\source\repos\VER-CHK — копия\VER-CHK\bin\Debug\netcoreapp3.1\VER-CHK.runtimeconfig.dev.json
+C:\Users\Zhenia\source\repos\VER-CHK — копия\VER-CHK\bin\Debug\netcoreapp3.1\VER-CHK.dll
+C:\Users\Zhenia\source\repos\VER-CHK — копия\VER-CHK\bin\Debug\netcoreapp3.1\VER-CHK.pdb
+C:\Users\Zhenia\source\repos\VER-CHK — копия\VER-CHK\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\Zhenia\source\repos\VER-CHK — копия\VER-CHK\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Zhenia\source\repos\VER-CHK — копия\VER-CHK\bin\Debug\netcoreapp3.1\AutoMoq.dll
+C:\Users\Zhenia\source\repos\VER-CHK — копия\VER-CHK\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\Zhenia\source\repos\VER-CHK — копия\VER-CHK\bin\Debug\netcoreapp3.1\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Zhenia\source\repos\VER-CHK — копия\VER-CHK\bin\Debug\netcoreapp3.1\DnsClient.dll
+C:\Users\Zhenia\source\repos\VER-CHK — копия\VER-CHK\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Zhenia\source\repos\VER-CHK — копия\VER-CHK\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Zhenia\source\repos\VER-CHK — копия\VER-CHK\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Zhenia\source\repos\VER-CHK — копия\VER-CHK\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Zhenia\source\repos\VER-CHK — копия\VER-CHK\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Zhenia\source\repos\VER-CHK — копия\VER-CHK\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Zhenia\source\repos\VER-CHK — копия\VER-CHK\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Zhenia\source\repos\VER-CHK — копия\VER-CHK\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+C:\Users\Zhenia\source\repos\VER-CHK — копия\VER-CHK\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+C:\Users\Zhenia\source\repos\VER-CHK — копия\VER-CHK\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+C:\Users\Zhenia\source\repos\VER-CHK — копия\VER-CHK\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+C:\Users\Zhenia\source\repos\VER-CHK — копия\VER-CHK\bin\Debug\netcoreapp3.1\Moq.dll
+C:\Users\Zhenia\source\repos\VER-CHK — копия\VER-CHK\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Zhenia\source\repos\VER-CHK — копия\VER-CHK\bin\Debug\netcoreapp3.1\SharpCompress.dll
+C:\Users\Zhenia\source\repos\VER-CHK — копия\VER-CHK\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Zhenia\source\repos\VER-CHK — копия\VER-CHK\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Zhenia\source\repos\VER-CHK — копия\VER-CHK\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Zhenia\source\repos\VER-CHK — копия\VER-CHK\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Zhenia\source\repos\VER-CHK — копия\VER-CHK\bin\Debug\netcoreapp3.1\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Zhenia\source\repos\VER-CHK — копия\VER-CHK\bin\Debug\netcoreapp3.1\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\Zhenia\source\repos\VER-CHK — копия\VER-CHK\bin\Debug\netcoreapp3.1\Microsoft.Practices.Unity.dll
+C:\Users\Zhenia\source\repos\VER-CHK — копия\VER-CHK\obj\Debug\netcoreapp3.1\VER-CHK.csprojAssemblyReference.cache
+C:\Users\Zhenia\source\repos\VER-CHK — копия\VER-CHK\obj\Debug\netcoreapp3.1\staticwebassets\VER-CHK.StaticWebAssets.Manifest.cache
+C:\Users\Zhenia\source\repos\VER-CHK — копия\VER-CHK\obj\Debug\netcoreapp3.1\staticwebassets\VER-CHK.StaticWebAssets.xml
+C:\Users\Zhenia\source\repos\VER-CHK — копия\VER-CHK\obj\Debug\netcoreapp3.1\VER-CHK.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Zhenia\source\repos\VER-CHK — копия\VER-CHK\obj\Debug\netcoreapp3.1\VER-CHK.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Zhenia\source\repos\VER-CHK — копия\VER-CHK\obj\Debug\netcoreapp3.1\VER-CHK.AssemblyInfoInputs.cache
+C:\Users\Zhenia\source\repos\VER-CHK — копия\VER-CHK\obj\Debug\netcoreapp3.1\VER-CHK.AssemblyInfo.cs
+C:\Users\Zhenia\source\repos\VER-CHK — копия\VER-CHK\obj\Debug\netcoreapp3.1\VER-CHK.RazorTargetAssemblyInfo.cache
+C:\Users\Zhenia\source\repos\VER-CHK — копия\VER-CHK\obj\Debug\netcoreapp3.1\VER-CHK.csproj.CopyComplete
+C:\Users\Zhenia\source\repos\VER-CHK — копия\VER-CHK\obj\Debug\netcoreapp3.1\VER-CHK.dll
+C:\Users\Zhenia\source\repos\VER-CHK — копия\VER-CHK\obj\Debug\netcoreapp3.1\VER-CHK.pdb
