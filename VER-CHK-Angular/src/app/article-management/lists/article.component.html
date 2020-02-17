@@ -1,0 +1,17 @@
+﻿<h2>All Articles</h2>
+<div class="btn-toolbar">
+    <button routerLink="/articleCreate" *ngIf="currentUser" type="button" class="btn btn-primary btn-sm">Add Article</button>
+
+    <form [formGroup]="findForm">
+
+            <input type="text" formControlName="find" />
+            <button type="button" (click)="findTitleOrUser()">Find</button>
+
+    </form>
+</div>
+
+    <div *ngFor="let article of articles">
+        <button type="button" class="btn btn-link" (click)="getArticle(article.title)">
+            {{article.title}}
+        </button> 
+    </div>

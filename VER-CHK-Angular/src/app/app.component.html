@@ -1,0 +1,24 @@
+﻿<!-- nav -->
+<nav class="navbar navbar-expand navbar-dark bg-dark" >
+    <div class="navbar-nav">
+        <a class="nav-item nav-link" routerLink="/home">Home</a>
+        <a routerLink="/article" class="nav-item nav-link">Article</a>
+        <a routerLink="/login" *ngIf="!currentUser" class="nav-item nav-link">Login</a>
+        <a routerLink="/register" *ngIf="!currentUser" class="nav-item nav-link">Register</a>
+        <a class="nav-item nav-link" *ngIf="currentUser" routerLink="/loginSettings">{{currentUser.userName}}</a>
+        <a routerLink="" class="nav-item nav-link" *ngIf="currentUser" (click)="logout()">Выйти</a>
+    </div>
+</nav>
+
+<!-- main app container -->
+<div class="jumbotron">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-6 offset-sm-3">
+                
+                <alert></alert>
+                <router-outlet></router-outlet>
+            </div>
+        </div>
+    </div>
+</div>

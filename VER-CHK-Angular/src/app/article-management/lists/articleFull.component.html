@@ -1,0 +1,37 @@
+﻿<div>
+    <b>Title:</b> {{article.title}}
+</div>
+<div>
+    <b>Content:</b> {{article.content}}
+</div>
+<div>
+    <b>Category:</b> {{article.category}}
+</div>
+<div>
+    <b>CreatedUser:</b> {{article.createdUser}}
+</div>
+<div>
+    <b>CreatedDate:</b> {{article.createdDate}}
+</div>
+<div *ngFor="let comment of article.comment">
+    <p><b>Comment:</b> {{comment.comment}}</p>
+    <p><b>CreatedUser:</b> {{comment.createdUser}}. <b>CreatedDate:</b> {{comment.createdDate}}</p>
+</div>
+<form [formGroup]="addCommentForm" *ngIf="currentUser" (ngSubmit)="onSubmit()">
+    <div class="form-group">
+        <label for="comment">Comment</label>
+        <input type="text" formControlName="comment" class="form-control" [ngClass]="{ 'is-invalid': submitted && f.comment.errors }" />
+        <div *ngIf="submitted && f.comment.errors" class="invalid-feedback">
+            <div *ngIf="f.comment.errors.required">Comment is required</div>
+            <div *ngIf="f.comment.errors.maxlength">Comment must not be at more 200 characters</div>
+        </div>
+    </div>
+    <div class="form-group">
+        <button class="btn btn-primary">
+            <span></span>
+            Add Comment
+        </button>
+        <a routerLink="/article" class="btn btn-link">Cancel</a>
+    </div>
+</form>
+<a routerLink="/article" *ngIf="!currentUser"class="btn btn-link">Return</a>
